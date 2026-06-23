@@ -6,7 +6,10 @@
 
 > Recurso interactivo de capacitación sobre la **NOM-035-STPS** (factores de riesgo psicosocial en el trabajo), diseñado como una experiencia de aprendizaje en un solo archivo HTML, con interacciones, evaluación y un enfoque pedagógico claro.
 
-🔗 **Curso en vivo:** <https://mauricio-agapito-herrera.github.io/CURSO-NOM-035-TRABAJADORES/>
+**🔗 Enlaces**
+- ▶️ **Curso en vivo:** <https://mauricio-agapito-herrera.github.io/CURSO-NOM-035-TRABAJADORES/>
+- 💼 **LinkedIn:** <https://www.linkedin.com/in/mauricio-agapito-herrera>
+- 🎨 **Behance:** <https://www.behance.net/mauriciagapito>
 
 ---
 
@@ -35,6 +38,14 @@
 ![Llamado a la acción](img/11-cta.png)
 
 ![Cierre](img/12-footer.png)
+
+---
+
+## 💼 ¿Te sirve este curso?
+
+**¿Lo quieres en tu LMS?** Te lo adapto a cualquier formato —SCORM, xAPI, HTML5 o el que use tu plataforma— **sin costo**. Y si tienes un proyecto en mente o te interesa un curso a la medida, escríbeme y lo platicamos.
+
+[![Escríbeme por LinkedIn](https://img.shields.io/badge/Escr%C3%ADbeme%20por%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-agapito-herrera)
 
 ---
 
